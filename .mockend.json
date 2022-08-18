@@ -1,9 +1,0 @@
-{
-  "Information": {
-    "id": { "int": {} },
-    "url": {
-      "string": ["https://localhost.com/hkddk", "https://localhost.com/hkddk"]
-    },
-    "file_type": { "string": ["file", "folder"] }
-  }
-}

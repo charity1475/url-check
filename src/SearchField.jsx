@@ -36,7 +36,7 @@ const SearchField = () => {
   };
 
   const fetchData = async () =>{
-         const res = await axios.get(`https://mockend.com/org/repo/users?url=${url}`,);
+         const res = await axios.get(`https://mockend.com/org/url-check/information?url=${url}`,);
          return res;
   };
 

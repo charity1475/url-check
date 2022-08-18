@@ -1,0 +1,12 @@
+[
+    {
+        "id":1,
+        "url":"https://localhost.com/hkddk",
+        "file_type":"file"
+    },
+    {
+        "id":2,
+        "url":"https://localhost.com/hkddk",
+        "file_type":"folder"
+    }
+]
